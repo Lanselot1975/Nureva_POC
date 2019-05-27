@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Nureva">
+
+    <test name="order">
+        <classes>
+            <class name="NurevaUI_Login" />
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Apr 30 16:58:13 EDT 2019
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1556657893443
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.slf4j\:slf4j-api\:pom\:1.6.1 from/to central (https\://repo.maven.apache.org/maven2)\: Connection reset
